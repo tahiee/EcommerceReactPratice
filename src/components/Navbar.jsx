@@ -12,7 +12,7 @@ const Navbar = () => {
         <>
             <div className="navbar bg-slate-300">
                 <div className="flex-1 ml-4">
-                    <a className="btn btn-ghost text-xl">daisyUI</a>
+                    <a className="btn btn-ghost text-xl">Shop.Mart</a>
                     <div className='nav-link'>
                         <ul className='flex gap-10 ml-4 cursor-pointer'>
                             <li>
@@ -33,7 +33,7 @@ const Navbar = () => {
 
                 <div>
                 {showList && (
-                    <ul className="slide okc mr-4">
+                    <ul className="slide bg-slate-300 okc mr-4">
                         <Link to='/'>Home</Link>
                         <Link to='product'>Products</Link>
                         <Link to='contact'>Contact</Link>

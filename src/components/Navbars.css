@@ -1,12 +1,15 @@
 @media only screen and (max-width:550px) {
-    .nav-link{
+    .nav-link {
         display: none;
     }
 }
 
-.slide{
+.slide {
     display: flex;
-    background-color: aqua;
+    /* background-color: aqua; */
     list-style: none;
     gap: 2rem;
+    margin-left: -64px;
+    font-weight: 600;
+    font-size: 16px;
 }
