@@ -1,5 +1,5 @@
 import React from 'react'
-import GitImg from '../../../../../github png.png'
+import GitImg from './github png.png'
 const Contacts = () => {
     return (
         <div className='flex justify-center items-center text-center mt-10'>
