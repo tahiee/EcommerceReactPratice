@@ -4,7 +4,7 @@ import About from '../Screens/about/About'
 import Home from '../Screens/home/Home'
 import Contacts from '../Screens/contact/Contacts'
 import Products from '../Screens/product/Products'
-import Navbar from '../Compnents/Navbar'
+import Navbar from '../components/Navbar'
 import SingelProduct from '../Screens/singel-product/SingelProduct'
 
 
