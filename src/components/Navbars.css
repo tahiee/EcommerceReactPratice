@@ -11,7 +11,7 @@
     text-align: center;
     justify-content: center;
     display: flex;
-    background-color: aqua;
+    /* background-color: aqua; */
     list-style: none;
     gap: 2rem;
     margin-left: -115px;
