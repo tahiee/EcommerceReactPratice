@@ -1,0 +1,17 @@
+@media only screen and (max-width:550px) {
+    .nav-link{
+        display: none;
+    }
+}
+
+@media only screen and  (max-width:550px) {
+   
+
+}
+
+.slide{
+    display: flex;
+    background-color: aqua;
+    list-style: none;
+    gap: 2rem;
+}
