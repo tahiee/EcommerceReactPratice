@@ -5,11 +5,16 @@
 }
 
 .slide {
+    height: 42px;
+    width: 252px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
     display: flex;
-    /* background-color: aqua; */
+    background-color: aqua;
     list-style: none;
     gap: 2rem;
-    margin-left: -64px;
+    margin-left: -115px;
     font-weight: 600;
     font-size: 16px;
 }
