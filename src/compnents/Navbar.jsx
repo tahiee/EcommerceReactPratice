@@ -33,7 +33,7 @@ const Navbar = () => {
 
                 <div>
                 {showList && (
-                    <ul className="slide mr-4">
+                    <ul className="slide ok mr-4">
                         <Link to='/'>Home</Link>
                         <Link to='product'>Products</Link>
                         <Link to='contact'>Contact</Link>
